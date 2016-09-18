@@ -2,5 +2,5 @@
 - feature-A
 - fix-B
 - feature-C
-- feature-D
+- feature-D - modify by dzhu from PC
 
